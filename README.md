@@ -3,11 +3,6 @@
 </h1>
 
 <h3 align="center">🚀 Passionate Frontend Developer from Turkey </h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emirkanoktay&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ---
 
 ## 🌟 About Me
@@ -30,6 +25,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emirkanoktay&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emirkanoktay&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=emirkanoktay&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies">
