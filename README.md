@@ -1,35 +1,26 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=37F7D7&center=true&width=435&lines=%F0%9F%9A%80+Hey!+I'm+Emirkan!;Passionate+Frontend+Developer;React+%7C+TypeScript+%7C+Node.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=37F7D7&center=true&width=435&lines=%F0%9F%9A%80+Hey!+I'm+That+Guy!;Passionate+HR+Hater;Hr+%7C+People+And+Culture!+%7C;+Fuck+Them+All" alt="Typing SVG" />
+
 </h1>
 
-<h3 align="center">🚀 Passionate Frontend Developer from Turkey </h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emirkanoktay&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
+<h3 align="center">🚀 Passionate People & Cultere - HR Hater from my 4kb useless database </h3>
 
 ## 🌟 About Me
-- 🔭 I’m currently working on **Frontend Projects with React.js**
-- 🌱 I’m learning **Node.js & Next.js**
-- 💡 Exploring **Backend Development**
-- 🎯 2025 Goals: **Build Full-Stack Applications**
-- ⚡ Fun fact: **I love Napoleon and strategy games!**  
+- 🔭 I’m currently working on **How To Abolish All The HR Workers**
+- 🌱 I’m learning **Spreading HR Hate**
+- 💡 Exploring **How To Piss Of HR Workers**
+- 🎯 2025 Goals: **Apply to as many jobs as possible so every HR loses at least 0.5 seconds of their precious time.**
+- ⚡ Fun fact: **I HATE HR AND PEOPLE & CULTURE WORKERS!**  
 
 ---
 
 ## 🛠️ Languages & Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,mongodb,git,github" />
+<img src="https://img.shields.io/badge/I_HATE_HR-000000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/And_People_&_Culture-b30000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/They_Are_Cunts-6a0dad?style=for-the-badge&logoColor=white" />
+ <br/>
 </p>
+
 
 ---
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emirkanoktay&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emirkanoktay&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies">
-</p>
